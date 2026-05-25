@@ -1,8 +1,8 @@
-<h1 align="center">🌌 Crafting Digital Wonders: I'm Yuri</h1>
+<h1 align="center">🌌 Crafting Digital Wonders: I'm YOUR_NAME</h1>
 
 <p align="center">
 🎓 Student at UTokyo |
-🚀 Founder of Aozora |
+🚀 Founder of YOUR_COMPANY |
 🤖 ML Enthusiast |
 🎋 Future-Japanese Dev
 </p>
@@ -12,37 +12,39 @@
     <img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
 
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/YOUR_USERNAME">
     <img src="https://img.shields.io/badge/ABOUT_ME-111111?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <a href="https://instagram.com/yourname">
+  <a href="https://instagram.com/YOUR_INSTAGRAM">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:YOUR_EMAIL@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-> *"The art of programming is not just about writing code, it's about creating solutions that transform lives."*
+> *"The art of programming is not just about writing code, it's about creating solutions that bridge cultures and transform lives."*
 
 ---
 
 # ⚡ About Me
 
-I'm a self-taught programmer based in Japan, passionate about creating beautiful and powerful applications.
+I'm a self-taught programmer based in Japan, currently navigating the academic rigors of the University of Tokyo while building futuristic digital experiences.
 
-- 🎓 Identity: Student at UTokyo
-- 🚀 Entrepreneurship: Founder at Aozora
-- 🌸 Mission: Becoming a world-class Japanese developer
-- 🤖 Focused: AI, Web Development & Innovation
+- 🎓 Identity: Proud student at UTokyo.
+- 🏢 Entrepreneurship: Founder & Lead at YOUR_COMPANY.
+- 🎋 Mission: Mastering the art of development as a Japanese Programmer.
+- 🤖 Focused: Deep diving into Neural Networks and AI Innovation.
 
 ---
 
 # 🛠 Tech Stack & Arsenal
+
+<div align="center">
 
 ## 🎨 Frontend & Design
 
@@ -79,18 +81,88 @@ I'm a self-taught programmer based in Japan, passionate about creating beautiful
 
 ---
 
-# 📊 GitHub Stats
+## 🌐 Backend & Core
+
+<p>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+</p>
+
+</div>
+
+---
+
+# 📊 My Digital Footprint
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🌌 Visitor Counter
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=blue"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=10"/>
 </p>
+
+---
+
+# ✍️ Random Dev Quote
+
+<div align="center">
+
+> *"Sometimes there is a silver bullet for boosting software engineering productivity. But you need to shoot the right person."*  
+> — Michael Stal
+
+</div>
+
+---
+
+# 💰 You can help me by Donating
+
+<a href="https://paypal.me/YOUR_PAYPAL">
+  <img src="https://img.shields.io/badge/PAYPAL-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
+</a>
+
+---
+
+<div align="center">
+
+# 🤝 Let's Collaborate
+
+Currently open to Machine Learning projects, Cross-cultural initiatives, and Open Source contributions.
+
+<br>
+
+<a href="https://yourwebsite.com">
+  <img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/YOUR_TWITTER">
+  <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+### 🎯 "空の下で、コードを書く" *(Writing code under the sky)*
+
+<br>
+
+Last Updated: 2026-03-14
+
+</div>
