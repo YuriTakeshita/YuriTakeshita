@@ -58,7 +58,6 @@ I'm a self-taught programmer based in Japan, currently navigating the academic r
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
 </p>
 
----
 
 ## 📱 Mobile & Systems
 
@@ -69,7 +68,6 @@ I'm a self-taught programmer based in Japan, currently navigating the academic r
 <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white"/>
 </p>
 
----
 
 ## 🤖 Intelligence & Data
 
@@ -80,7 +78,6 @@ I'm a self-taught programmer based in Japan, currently navigating the academic r
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
 
----
 
 ## 🌐 Backend & Core
 
