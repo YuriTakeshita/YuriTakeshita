@@ -47,7 +47,7 @@ I'm a self-taught programmer based in Japan, currently navigating the academic r
 
 <div align="center">
 
-## 🎨 Frontend & Design
+### 🎨 Frontend & Design
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -59,7 +59,7 @@ I'm a self-taught programmer based in Japan, currently navigating the academic r
 </p>
 
 
-## 📱 Mobile & Systems
+### 📱 Mobile & Systems
 
 <p>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
@@ -69,7 +69,7 @@ I'm a self-taught programmer based in Japan, currently navigating the academic r
 </p>
 
 
-## 🤖 Intelligence & Data
+### 🤖 Intelligence & Data
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -79,7 +79,7 @@ I'm a self-taught programmer based in Japan, currently navigating the academic r
 </p>
 
 
-## 🌐 Backend & Core
+### 🌐 Backend & Core
 
 <p>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
