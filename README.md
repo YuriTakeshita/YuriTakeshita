@@ -114,12 +114,22 @@ I'm a self-taught programmer based in Japan, currently navigating the academic r
 
 ---
 
-# ✍️ Random Dev Quote
+<h2>✍️ Random Dev Quote</h2>
 
-<div align="center">
+<div style="background-color:#111111; padding:25px; border-radius:12px;">
 
-> *"Sometimes there is a silver bullet for boosting software engineering productivity. But you need to shoot the right person."*  
-> — Michael Stal
+<h3>
+<i>
+“Sometimes there is a silver bullet for boosting software engineering productivity.
+But you need to shoot the right person.”
+</i>
+</h3>
+
+<div align="right">
+
+<b><i>- Michael Stal</i></b>
+
+</div>
 
 </div>
 
