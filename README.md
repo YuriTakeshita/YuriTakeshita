@@ -1,11 +1,11 @@
-<h1 align="center">🌌 Crafting Digital Wonders: I'm YOUR_NAME</h1>
+<h1 align="center">🌌 Crafting Digital Wonders: I'm Yuri</h1>
 
-<p align="center">
+<h5 align="center">
 🎓 Student at UTokyo |
 🚀 Founder of YOUR_COMPANY |
 🤖 ML Enthusiast |
 🎋 Future-Japanese Dev
-</p>
+</h5>
 
 <p align="center">
   <a href="https://yourwebsite.com">
