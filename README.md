@@ -34,12 +34,12 @@
 
 # ⚡ About Me
 
-I'm a self-taught programmer based in Japan, currently navigating the academic rigors of the University of Tokyo while building futuristic digital experiences.
+I'm a self-taught programmer based in Japan, currently navigating the academic rigors of the <b>University of Tokyo (UTOKYO)</b> while building the future at <b>Aozora</b>. I bridge the gap between complex Machine Learning architectures and user-friendly Web/Mobile applications.
 
-- 🎓 Identity: Proud student at UTokyo.
-- 🏢 Entrepreneurship: Founder & Lead at YOUR_COMPANY.
-- 🎋 Mission: Mastering the art of development as a Japanese Programmer.
-- 🤖 Focused: Deep diving into Neural Networks and AI Innovation.
+- 🎓 <b>Identity</b>: Proud student at <b>UTokyo</b>.
+- 🏢 <b>Entrepreneurship</b>: Founder & Lead at <b>Aozora</b>.
+- 🎋 <b>Mission</b>: Mastering the art of development as a <b>Japanese Programmer</b>.
+- 🤖 <b>Focused</b>: Deep diving into <b>Neural Networks</b> and <b>AI Innovation</b>.
 
 ---
 
