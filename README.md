@@ -6,8 +6,9 @@
 🤖 ML Enthusiast |
 🎋 Future-Japanese Dev
 </h3>
-
-<p align="center" margin-top="30px">
+<br>
+<br>
+<p align="center">
   <a href="https://yourwebsite.com">
     <img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
